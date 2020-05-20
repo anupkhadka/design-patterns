@@ -3,3 +3,4 @@
 * Singleton Pattern (Java)
 * Abstract Factory Pattern (Java)
 * Adapter Pattern (Java)
+* Builder Pattern (Java)
