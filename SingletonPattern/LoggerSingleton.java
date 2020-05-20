@@ -18,7 +18,7 @@ public class LoggerSingleton  {
     log = new String();
   }
 
-	public void addLog(String log) {
+  public void addLog(String log) {
     if(!this.log.equals("")) {
       this.log += "\n";
     }

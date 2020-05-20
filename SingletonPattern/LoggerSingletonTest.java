@@ -14,5 +14,5 @@ public class LoggerSingletonTest {
     LoggerSingleton instance2 = LoggerSingleton.getInstance();
     instance2.addLog("Second Log");
     instance1.printLog(); //This should print both "First Log" and "Second Log"
-	}
+  }
 }
